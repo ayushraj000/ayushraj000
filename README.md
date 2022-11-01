@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayushraj000.github.io/MyPortfolio/](https://ayushraj000.github.io/MyPortfolio/)
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, Python, Java, c++, SQL, Cyber Security, SQL Injection, XSS**
 
 - 📫 How to reach me **ayushraj171128@gmail.com**
 
